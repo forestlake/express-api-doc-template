@@ -1,3 +1,5 @@
+# DEPRECATED
+
 # template generator for [express-api-doc](https://www.npmjs.com/package/express-api-doc)
 
 ## run:
